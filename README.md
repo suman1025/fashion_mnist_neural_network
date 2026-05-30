@@ -5,6 +5,9 @@ This project builds a simple neural network using TensorFlow and Keras to classi
 ## Problem Statement
 Image classification is an important task in machine learning. The goal of this project is to train a neural network model that can correctly identify different categories of clothing images.
 
+## Project Objective
+The objective of this project is to build and evaluate a simple neural network model using TensorFlow and Keras for image classification. The model is trained on the Fashion MNIST dataset to learn image patterns and classify clothing items into different categories.
+
 ## Dataset Information
 The Fashion MNIST dataset contains grayscale images of clothing items such as shirts, shoes, bags, and dresses.
 
